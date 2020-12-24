@@ -1,0 +1,10 @@
+Xamarin Forum (including C++ binaries) 1 = https://forums.xamarin.com/discussion/150299/opencv-with-xamarin-forms?__cf_chl_jschl_tk__=6c80fdaec30ce090055d3a93d08b5c0aa853feca-1608796287-0-ARhUOlPzE8V94sxQ_Jj0A8wiAAvHdNgW0apXgmcMt_I4aO-Xbn0iZ0ie0wbddAUFKZkU8iY8sH-x-0G3j3tHZSYy2VrggMwZytZ1LXfSvnEdp9_luoxYR5lZeBr6qaLwxPHCmbwFTkU_qruyouAW1_gsCBYiKT-4pwtt37x_0Lz9LZUXu4tfv8btKPX6w8UYyUo2G0KIfs7WTSvWCyFKAyEEFTsFMML4NeI9ZADY06zz2PH4CXoFcr_ignYVhn-CISaIbxry2glE4GviiR0ZPalmFoFcWj0mU2y7-IKhsaOPuvMLdtvZRr4_AmJbVl5NYn95svub1pIe3XYWByEuzPFSLoD2tl9uqz05k_hJ0gZL
+Xamarin Docs (including C++ binaries) 1 = https://docs.microsoft.com/en-us/xamarin/cross-platform/cpp/
+Xamarin C++ Inclusion Sample Github = https://github.com/xamcat/mobcat-samples
+Xamarin C++ Inclusion Others = https://channel9.msdn.com/Shows/XamarinShow/Bring-Some-C-to-Xamarin-Apps
+https://www.codeproject.com/Articles/18032/How-to-Marshal-a-C-Class
+
+
+Xamarin Java API/Jar inclusion in Xamarin Forms Application (Microsoft Docs) = https://docs.microsoft.com/en-us/xamarin/android/platform/binding-java-library/
+Xamamin Java Forum random = https://www.jenx.si/2019/11/28/using-android-java-libraries-in-xamarin-forms-a-practical-example/
+
